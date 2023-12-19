@@ -1,0 +1,5 @@
+npm i jest @types/jest  -D
+npm i supertest -D
+npm i eslint -D
+npx eslint --init
+npm i eslint-plugin-jest  -D
